@@ -1,6 +1,3 @@
-# Deploying a python we application
-#echo"Hello World"
-#= shell scripts    
-#python('Hello World')
-#= python script
-print('Hello World')
+# Deploying a java application
+#deploy python app
+#deploy in the dev env
